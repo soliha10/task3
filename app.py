@@ -17,7 +17,7 @@ def parse(value):
     return int(value)
 
 
-@app.get("/ismatovshahzod43_gmail_com")
+@app.get("/toxtamurodovagulshodaa_gmail_com")
 def lcm():
     x = parse(request.args.get("x"))
     y = parse(request.args.get("y"))
